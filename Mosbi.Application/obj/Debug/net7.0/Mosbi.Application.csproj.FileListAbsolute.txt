@@ -1,0 +1,17 @@
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\bin\Debug\net7.0\Mosbi.Application.deps.json
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\bin\Debug\net7.0\Mosbi.Application.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\bin\Debug\net7.0\Mosbi.Application.dll
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\bin\Debug\net7.0\Mosbi.Application.pdb
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\bin\Debug\net7.0\Mosbi.Domain.dll
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\bin\Debug\net7.0\Mosbi.Domain.pdb
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.csproj.CopyComplete
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.dll
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\refint\Mosbi.Application.dll
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.pdb
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\Mosbi.Application.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\Mosbi\Mosbi.Application\obj\Debug\net7.0\ref\Mosbi.Application.dll
